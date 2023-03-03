@@ -1,0 +1,25 @@
+sf = [("The Lake House",5),("The Five People You Meet in Heaven",5),("Heart of the Sea (Irish Trilogy)",9),
+                 ("A Bend in the Road",2),("Last Man Standing",2)]
+
+si recomandari
+Heart of the Sea (Irish Trilogy)                             3.837191
+Tears of the Moon (Irish Trilogy)                            1.912108
+Jewels of the Sun (Irish Trilogy)                            1.550409
+Dance upon the Air (Three Sisters Island Trilogy)            0.768112
+Heaven and Earth (Three Sisters Island Trilogy)              0.707205
+Carolina Moon                                                0.464030
+The Villa                                                    0.397700
+Three Fates                                                  0.363193
+Face the Fire (Three Sisters Island Trilogy)                 0.298232
+Heartbreaker                                                 0.296056
+Midnight Bayou                                               0.293137
+Birthright                                                   0.278061
+What to Expect When You're Expecting (Revised Edition)       0.233986
+The Pelican Brief                                            0.216749
+Guilty Pleasures (Anita Blake Vampire Hunter (Paperback))    0.207755
+Wifey                                                        0.187360
+The Firm                                                     0.179087
+Riptide                                                      0.175988
+Key of Valor (Roberts, Nora. Key Trilogy, 3.)                0.169046
+The Kiss                                                     0.151041
+dtype: float64

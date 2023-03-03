@@ -1,0 +1,24 @@
+sf = [("The Wedding",5),("The Notebook",5),("Nights in Rodanthe",9),
+                 ("The Return of the King (The Lord of the Rings, Part 3)",2),("The Gift",2)]
+
+si recomandari
+Nights in Rodanthe              3.789951
+The Guardian                    0.478417
+Message in a Bottle             0.377734
+The Rescue                      0.326774
+A Walk to Remember              0.261567
+The Wedding                     0.250201
+The Notebook                    0.236360
+Four Blind Mice                 0.228119
+Sea Glass: A Novel              0.208284
+Last Man Standing               0.196867
+Lucky Man: A Memoir             0.182235
+Blow Fly: A Scarpetta Novel     0.177525
+Empire Falls                    0.171294
+Envy                            0.167964
+The Lovely Bones: A Novel       0.160083
+The Lake House                  0.153787
+2nd Chance                      0.153765
+The Da Vinci Code               0.153148
+A Bend in the Road              0.152582
+Suzanne's Diary for Nicholas    0.152147

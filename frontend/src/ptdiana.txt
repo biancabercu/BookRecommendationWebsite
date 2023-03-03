@@ -1,0 +1,26 @@
+sf = [("A Walk to Remember",10),("The Notebook",10),("Bridget Jones's Diary",9),
+                 ("The Return of the King (The Lord of the Rings, Part 3)",2),("Lord of the Flies",2)]
+
+si recomandari
+
+The Notebook                                               
+A Walk to Remember                                         
+Bridget Jones's Diary                                      
+The Rescue                                                 1.475833
+Nights in Rodanthe                                         1.350694
+Message in a Bottle                                        1.263154
+Bridget Jones: The Edge of Reason                          1.032393
+The Guardian                                               0.928347
+The Wedding                                                0.927733
+The Gift                                                   0.903872
+Suzanne's Diary for Nicholas                               0.893213
+A Bend in the Road                                         0.861338
+Bridget Jones : The Edge of Reason                         0.698629
+Where the Heart Is (Oprah's Book Club (Paperback))         0.643897
+The Secret Garden                                          0.623416
+Lucky : A Memoir                                           0.619529
+Shopaholic Takes Manhattan (Summer Display Opportunity)    0.616209
+Key of Valor (Roberts, Nora. Key Trilogy, 3.)              0.600966
+The Five People You Meet in Heaven                         0.596931
+Heart of the Sea (Irish Trilogy)                           0.596894
+dtype: float64
